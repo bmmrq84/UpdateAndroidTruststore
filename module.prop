@@ -1,0 +1,6 @@
+id=UpdateAndroidCAcerts
+name=UpdateAndroidCAcerts
+version=1
+versionCode=1
+author=83574
+description=Update android system CA Root Certificates
