@@ -5,10 +5,9 @@ Systemlessly replace system Root CA certificates with latest from AOSP source
 
 Use this if you have an out of support Android device still supported by Magisk
 
-Symptoms cured by this module:
-- Some websites cannot be loaded (SSL/TLS errors)
-- Some Apps could not use internet (SSL/TLS errors)
-(These are the same symptom under the hood)
+Symptoms cured by this module (all are same symptom under the hood, SSL/TLS errors):
+- Some websites cannot be loaded
+- Some Apps could not use internet
 
 Attention: Will only work if system truststore is located in /system/etc/security/cacerts
 
