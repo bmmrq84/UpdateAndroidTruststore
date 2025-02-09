@@ -1,6 +1,7 @@
-id=UpdateAndroidCAcerts
-name=UpdateAndroidCAcerts
+id=UpdateAndroidTruststore
+name=UpdateAndroidTruststore
 version=1
 versionCode=1
-author=83574
-description=Update android system CA Root Certificates
+author=bmmrq84
+description=Replaces Android system Root CA certificates with latest from AOSP source
+updateJson=
