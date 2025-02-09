@@ -17,4 +17,6 @@ This is a very simple module without code or scripts. It just uses magisk overla
 
 Tested successfully using a Shield Tablet K1 Stock 5.4 (Android 7.0).
 
+[Download](https://github.com/bmmrq84/UpdateAndroidTruststore/releases/download/v1.0.0/UpdateAndroidTruststore.zip)
+
 Enjoy!
