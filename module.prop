@@ -4,4 +4,4 @@ version=1.0.0
 versionCode=100
 author=bmmrq84
 description=Replaces Android system Root CA certificates with latest from AOSP source
-updateJson=
+updateJson=https://raw.githubusercontent.com/bmmrq84/UpdateAndroidTruststore/refs/heads/main/update.json
